@@ -1,6 +1,6 @@
 # river-dolphin-lens-genes
 
-Code for: **Lens genes are lost in the lens-less Ganges river dolphin while light-detection genes are kept**
+Code for: **Lens-gene pseudogenization with retention of phototransduction and auditory genes in the Ganges river dolphin (Platanista gangetica): a comparative genomic analysis of six odontocetes**
 Muhammad Saeed Iqbal . 
 
 These scripts find gene losses and test for changes in selection in 25 lens, light-detection and hearing
