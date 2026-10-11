@@ -1,7 +1,7 @@
 # river-dolphin-lens-genes
 
 Code for: **Lens genes are lost in the lens-less Ganges river dolphin while light-detection genes are kept**
-Muhammad Saeed Iqbal [and co-authors]. [Journal or preprint, year, DOI]
+Muhammad Saeed Iqbal . 
 
 These scripts find gene losses and test for changes in selection in 25 lens, light-detection and hearing
 genes, in three river dolphins (*Platanista gangetica*, *Lipotes vexillifer*, *Inia geoffrensis*) and three
