@@ -1,0 +1,8 @@
+# BUSCO environment (step 2), kept separate because BUSCO pins its own dependencies.
+# Create with:  conda env create -f environment_busco.yml   then:  conda activate river-dolphin-busco
+name: river-dolphin-busco
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - busco=6.1.0

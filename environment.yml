@@ -1,0 +1,20 @@
+# Main analysis environment (steps 1 and 3-12). Versions are those used for the paper.
+# Create with:  conda env create -f environment.yml   then:  conda activate river-dolphin-lens
+name: river-dolphin-lens
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.9
+  - biopython
+  - ncbi-datasets-cli
+  - sra-tools
+  - miniprot=0.18
+  - gffread=0.12.9
+  - minimap2=2.31
+  - samtools=1.19.2
+  - bcftools=1.24
+  - macse=2.07
+  - hyphy=2.5.101
+  - reportlab
+  - openpyxl
